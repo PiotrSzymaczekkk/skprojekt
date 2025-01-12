@@ -1,0 +1,4 @@
+/home/aszym/sieci/broker_message/build/CMakeFiles/server.dir
+/home/aszym/sieci/broker_message/build/CMakeFiles/client.dir
+/home/aszym/sieci/broker_message/build/CMakeFiles/edit_cache.dir
+/home/aszym/sieci/broker_message/build/CMakeFiles/rebuild_cache.dir
